@@ -1,0 +1,21 @@
+.wrapper {
+    width: 400px;
+    height: 200px;
+    border-radius: 16px;
+    border: 1px dashed black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .description {
+    text-decoration: underline;
+  }
+  
+  img {
+    object-fit: cover;
+  }
+  
+  
